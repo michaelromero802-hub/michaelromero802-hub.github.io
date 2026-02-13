@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dc0049d-8022-4d80-89c0-87f95eaef3d2" /># michaelromero802-hub.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
